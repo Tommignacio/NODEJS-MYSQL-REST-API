@@ -1,4 +1,0 @@
-MYSQL
-Run on terminal:
-> mysql-u root -p
-Enter password: ****
